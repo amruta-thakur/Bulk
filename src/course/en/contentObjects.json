@@ -1,0 +1,248 @@
+[
+    {
+        "_id": "co-01",
+        "_parentId": "course",
+        "_type": "menu",
+        "_classes": "menu-width",
+        "title": "",
+        "displayTitle": "Welcome to the Customer Service Model course.",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/menu-one.jpg"
+        },
+        "linkText": "Go",
+        "duration": "30 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_isInitialView": true
+    },
+    {
+        "_id": "co-05",
+        "_parentId": "course",
+        "_type": "menu",
+        "_classes": "",
+        "title": "Welcome to the Customer Service Model course.",
+        "displayTitle": "Welcome to the Customer Service Model course.",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/menu-one.jpg"
+        },
+        "linkText": "Go",
+        "duration": "30 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-10",
+        "_parentId": "co-01",
+        "_type": "page",
+        "_classes": "",
+        "title": "Welcome to the Customer Service Model course.",
+        "displayTitle": "Welcome to the Customer Service Model course.",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/menu-one.jpg"
+        },
+        "linkText": "Go",
+        "duration": "30 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-15",
+        "_parentId": "co-05",
+        "_type": "menu",
+        "_classes": "",
+        "title": "BULK BARN Model Overview ",
+        "displayTitle": "BULK BARN Model Overview ",
+        "body": "Each letter in the BULKBARN model corresponds to one attribute that will help you provide the best possible customer experience.<br><br>Select each letter of the BULKBARN acronym in proper order to learn more.",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/menu-one.jpg"
+        },
+        "linkText": "Go",
+        "duration": "30 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-20",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - B",
+        "displayTitle": "Bring It",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-b-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "3 mins 40 secs",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_pageCompletion":{
+            "_isEnabled":true,
+            "_duration":2,
+            "_popupTitle":"Welcome to Adapt Learning",
+            "_popupText":"Congrats!! You are completed this page",
+            "_backLink":{
+                "url":"#/id/co-15",
+                "linkText":"Go to Menu"
+            }
+
+        }
+    },
+    {
+        "_id": "co-25",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - U",
+        "displayTitle": "Understanding Their Needs",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-u-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "4 mins 15 secs",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-30",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - L",
+        "displayTitle": "Leading the Customer",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-l-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "4 mins 15 secs",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-35",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - K",
+        "displayTitle": "Knowing the Products, Processes and Promotions ",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-k-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "5 mins 15 secs ",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-40",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - B",
+        "displayTitle": "Believing in Product and Processes",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-b-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "4 mins 30 secs",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-45",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - A",
+        "displayTitle": "Acknowledging Their Needs and Add on",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-a-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "4 mins 15 secs",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-50",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - R",
+        "displayTitle": "Relationship Management",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-r-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "6 mins  30 secs ",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-55",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - N",
+        "displayTitle": "Next Visit",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-n-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "4 mins 30 secs ",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-60",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "summary-menu",
+        "title": "Summary",
+        "displayTitle": "Summary",
+        "body": "",
+        "_graphic": {
+            "alt": "",
+            "src": ""
+        },
+        "linkText": "Go",
+        "duration": "2 mins 45 secs",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }
+]

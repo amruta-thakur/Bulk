@@ -1,0 +1,555 @@
+[
+    {
+        "_id": "c-01",
+        "_parentId": "b-02",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "crest-logo scroll-btn",
+        "_layout": "center",
+        "title": "Learning Objectives",
+        "displayTitle": "Learning Objectives",
+        "body": "<br>The Bulk Barn Customer Service Model is an eight-step process to engage customers, respond to their needs, and create a better shopping experience for them.<br><br>By the end of this course, you will be able to:<br><ul><li>State the importance of the customer service model in serving customers and ensuring repeat business</li><li>Explain the Bulk Barn customer service model</li><li>Describe the different types of customer personalities and their behavior</li><li>Leverage the Bulk Barn model as appropriate to each customer personality</li></ul>",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-02",
+        "_parentId": "b-05",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "full",
+        "title": "",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "alt": "Daily Inspection and Sweeping Log",
+            "title": "",
+            "large": "course/en/images/c15image02_2.jpg",
+            "medium": "course/en/images/c15image02_2.jpg",
+            "small": "course/en/images/c15image02_2.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+
+    {
+        "_id": "c-03",
+        "_parentId": "b-10",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Managing Customers",
+        "displayTitle": "Managing Customers",
+        "body": "As a Bulk Barn employee, you will hear many comments from our customers, both good and bad...",
+        "instruction": "",
+        "_setCompletionOn": "play",
+        "_media": {
+            "mp4": "course/en/video/c02-v01.mp4",
+            "ogv": "course/en/video/c02-v01.ogv",
+            "poster": "course/en/video/c02-v01.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-04",
+        "_parentId": "b-15",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Happy Customers = Happy Employees",
+        "displayTitle": "Happy Customers = Happy Employees",
+        "body": "",
+        "instruction": "",
+        "_setCompletionOn": "play",
+        "_media": {
+            "mp4": "course/en/video/c02-v01.mp4",
+            "ogv": "course/en/video/c02-v01.ogv",
+            "poster": "course/en/video/c02-v01.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+            "_id": "c-05",
+        "_parentId": "b-20",
+        "_classes": "",
+        "_type": "component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "Customer Personalities ",
+        "displayTitle": "Customer Personalities ",
+        "body": "<br>No two customers are alike; that’s just human nature!<br><br>But to help you understand your customers better and learn more about their behavioral traits, we have categorized customer personalities into three general types:<br><br>Select the red forward arrow to learn more.",
+        "mobileBody": "This is optional body text that will be shown when viewed on mobile.",
+        "instruction": "",
+        "_graphic": {
+        "src": "course/en/images/c19image01-summary.jpg",
+        "alt": "alt text",
+        "title": "title"
+        },
+        "_items": [
+            {
+            "title": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer<br>",
+            "body": "<li>These customers are usually in a rush. They are likely familiar with your store and know what they are looking for.</li><li>These customers can easily become agitated. They usually have something else going on in their world affecting them.</li><li>Some customers can just be cranky, so don’t take their behaviour personally!</li>",
+            "_graphic": {
+            "src": "course/en/images/c19image02.jpg",
+            "alt": "alt text",
+            "title": "title text"
+            },
+            "strapline": "strapline...",
+            "_top": 5,
+            "_left": 25
+            },
+            {
+            "title": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+            "body": "<li>These are the customers we all love – they welcome our help. But they may not always ask – so be on the lookout for this.</li><li>Make good use of the opportunity to work with these customers—you don’t get a chance to help them all that often! </li><li>While interacting with these customers, use this opportunity to sharpen your skills for more difficult customers.</li>",
+            "_graphic": {
+            "src": "course/en/images/c19image02.jpg",
+            "alt": "alt text",
+            "title": "title text"
+            },
+            "strapline": "strapline...",
+            "_top": 5,
+            "_left":47
+            },
+            {
+            "title": "The “Frightful”, “Timid” and/or “Shy” Customer",
+            "body": "<li>Sometimes shy customers require help, but are simply afraid to receive it when you initially ask.</li><li>Be available for these customers when they do need your help.</li>",
+            "_graphic": {
+            "src": "course/en/images/c19image02.jpg",
+            "alt": "alt text",
+            "title": "title text"
+            },
+            "strapline": "strapline...",
+            "_top": 5,
+            "_left": 70
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": false
+        }
+     },
+
+         {
+            "_id": "c-06",
+            "_parentId": "b-25",
+            "_type": "component",
+            "_component": "text",
+            "_classes": "crest-logo scroll-btn",
+            "_layout": "center",
+            "title": "",
+            "displayTitle": "",
+            "body": "<br>Often, customers will share more than one trait from each category, so you have to be on your toes.",
+            "instruction": "",
+            "_pageLevelProgress": {
+            "_isEnabled": true
+            }
+     },
+    {
+        "_id": "c-07",
+        "_parentId": "b-30",
+        "_type": "component",
+        "_component": "navigate",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Creating a Better Shopping Experience",
+        "displayTitle": "Creating a Better Shopping Experience",
+        "body": "This course will help you manage customers with ease and make their experience with Bulk Barn more enjoyable.<br><br>That’s important, because when a customer leaves the store satisfied, there is a much greater chance of them becoming a repeat customer!<br><br>More Customers > More Sales > More Hours >  Better Work Environment > Better Shopping Experience<br>To build your people skills and boost customer satisfaction, we’ve designed a powerful resource called the Bulk Barn Model.<br><br>Are you ready to explore it? Then let’s get started!",
+        "instruction": "",
+        "_navigationButtons": [
+            {
+                "buttonText": "Get Started",
+                "navigateToId": "co-15"
+            }
+        ]
+    },
+    {
+        "_id": "c-991-1",
+        "_parentId": "b-991-1",
+        "_type": "component",
+        "_component": "textAnimate",
+        "_classes": "",
+        "_layout": "center",
+        "title": "<u>B</u>ULKBARN",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_item": {
+            "text": "BULKBARN",
+            "hightlightPosition": 0,
+            "descriptionText": "<h1>:Bring It</h1>",
+            "animationTime": 1000
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-991-2",
+        "_parentId": "b-991-2",
+        "_type": "component",
+        "_component": "narrative",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Which Employee Would You Rather Approach?",
+        "displayTitle": "Which Employee Would You Rather Approach?",
+        "body": "Say you are a customer and have a question about a product. Which employee would you rather approach?",
+        "instruction": "",
+        "_items": [
+
+            {
+                "title": "",
+                "body": "Employee one: Gee, I'm not really sure about that. You should google it.<br><br>Customer thought: But isn't it your job to know about your products?",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "",
+                "body": "Employee two: This is great flour for baking. Let me share some baking ideas that have really worked out well for other customers.<br><br>Customer thought: Wow, she really seems to know her stuff!",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "",
+                "body": "Don’t you think the customer in scenario 2 seems more satisfied? Customer satisfaction is based not just on the products they receive but also on their experience with the store employees.",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-991-3",
+        "_parentId": "b-991-3",
+        "_type": "component",
+        "_component": "narrative",
+        "_classes": "",
+        "_layout": "full",
+        "title": "What Is Meant By “Bring It”?  ",
+        "displayTitle": "What Is Meant By “Bring It”?",
+        "body": "",
+        "instruction": "",
+        "_items": [
+
+            {
+                "title": "",
+                "body": "“Bring It” is an attitude of positively embracing the day’s responsibilities in compliance with company’s operating policies and procedures.",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "",
+                "body": "“Bring It” is about exhibiting professionalism and making the customer feel welcome. You can ensure a great shopping experience for customers by:<br><br><li>Adopting a positive attitude</li><li>Having high energy </li><li>Being kind</li><li>Dressing appropriately </li><li>Being approachable</li>",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            }
+
+        ],
+
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-991-6",
+        "_parentId": "b-991-5",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "First Impression Speaks a Thousand Words",
+        "displayTitle": "First Impression Speaks a Thousand Words",
+        "body": "",
+        "instruction": "",
+        "_items": [
+            {
+                "title": "",
+                "body": "The appearance, attitude and behavior of an employee influence a customer. A customer is more likely to approach a neatly dressed employee, who speaks politely and is eager to help.",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "Characteristics of a Professional Employee include:",
+                "body": "<li>Clean shaven</li><li>Combed hair</li><li>Shirt tucked in</li><li>Black slacks</li><li>Black Socks</li><li>Black Shoes</li><li>Smiling Face</li><li>Energy and eagerness to provide assistance </li>",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id": "c-991-7",
+        "_parentId": "b-991-6",
+        "_classes": "",
+        "_type": "component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "The “Bring It” Standard",
+        "displayTitle": "The “Bring It” Standard",
+        "body": "Take a look at this image and click on each hotspot to learn about the things that are not up to the “Bring It” standard.",
+        "mobileBody": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/c19image01-summary.jpg",
+            "alt": "alt text",
+            "title": "title"
+        },
+        "_items": [
+            {
+                "title": "Colorful shoes",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/c19image02.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "strapline...",
+                "_top": 5,
+                "_left": 30
+            },
+
+            {
+                "title": "Messy hair",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/c19image02.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "strapline...",
+                "_top": 5,
+                "_left": 40
+            },
+            {
+                "title": "Disinterested expression",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/c19image02.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "strapline...",
+                "_top": 5,
+                "_left": 50
+            },
+            {
+                "title": "Wrinkled or stained shirt",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/c19image02.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "strapline...",
+                "_top": 5,
+                "_left": 60
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+
+    {
+        "_id": "c-991-8",
+        "_parentId": "b-991-7",
+        "_type": "component",
+        "_component": "narrative",
+        "_classes": "",
+        "_layout": "full",
+        "title": "What You Need to Do to “Bring It”?",
+        "displayTitle": "What You Need to Do to “Bring It”?",
+        "body": "To Bring it, you need to:",
+        "instruction": "",
+        "_items": [
+            {
+                "title": "",
+                "body": "Exhibit professionalism in your work ",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "",
+                "body": "Follow the dress code policy: wear a clean and ironed uniform with your shirt is tucked in.",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "",
+                "body": "Always be well groomed so that you are presentable and approachable for customers.",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "",
+                "body": "Adhere to health and safety policies and procedures.",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "",
+                "body": "Demonstrate a contagious, positive and energetic attitude.",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "",
+                "body": "Actively engage with customers, and be polite and courteous in your interactions.",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "",
+                "body": "Offer appropriate support to customers and/or employees who require special needs assistance.",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "",
+                "body": "Treat customers like guests by being hospitable and inviting – Welcome every customer to the store with a “Hello”!",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "",
+                "body": "Remember, customers want to shop where they are comfortable and feel welcomed.<br><br>By following these standards, you’ll create the kind of shopping experience that keeps customers coming back!",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-991-9",
+        "_parentId": "b-991-8",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Customer Personalities and Coaching Tips",
+        "displayTitle": "Customer Personalities and Coaching Tips",
+        "body": "Let’s see how we can apply the “Bring It” approach with the three common categories of customers. <br><br>Select the red forward arrow to learn more.",
+        "instruction": "",
+        "_items": [
+
+            {
+                "title": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "body": "<li>If they are not in a mood to receive your assistance and service, then it’s better to let them be on their own. You’ve done your part by welcoming them to the store and having a positive attitude.</li><li>Some customers are simply in a bad frame of mind or are just in a rush. So, give them space and time to complete their shopping. </li><li>Should they need your assistance, make sure you are immediately available.</li>",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+                "body": "<li>These customers are often looking for our help, but don’t always ask.</li><li>With your positive approach, and contagious attitude, you will have little problem taking this customer through the next steps.</li>",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            },
+            {
+                "title": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "body": "<li>Sometimes customers require help, but are too shy to receive it when you initially ask. Be polite and set the tone. </li><li>If the customer turns down your initial request to assist them, you should still keep an eye out for them. As they walk the aisles and become more comfortable in the store it may become apparent that they do require help.</li><li>When they do accept your help be polite, professional and patient. Be prepared to ask more questions to discover their needs.</li>",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Here is the first..."
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }
+
+]
